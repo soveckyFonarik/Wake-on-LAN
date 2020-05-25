@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\druid\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\druid\\.nuget\\packages"
+    ]
+  }
+}
